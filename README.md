@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>موقع الشعر</title>
+    <title>hair website</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -64,11 +64,11 @@
             text-align: center;
         }
 
-        .product img {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
-            border-radius: 10px;
+        .//product img {
+            //width: 100%;
+           // height: 200px;
+           // object-fit: cover;
+           // border-radius: 10px;
         }
 
         .product h3 {
@@ -96,26 +96,26 @@
     </header>
 
     <nav>
-        <a href="#products">منتجاتنا</a>
-        <a href="#about">عن الموقع</a>
-        <a href="#contact">تواصل معنا</a>
+        <a href="#products">our product</a>
+        <a href="#about">about</a>
+        <a href="#contact">contact us</a>
     </nav>
 
     <div class="container" id="products">
         <h2 class="section-title">منتجاتنا</h2>
         <div class="products">
             <div class="product">
-                <img src=" " alt="شامبو طبيعي">
+                //<img src=" " //alt="شامبو طبيعي">
                 <h3>شامبو طبيعي</h3>
                 <p>يحافظ على صحة شعرك ويغذي فروة الرأس</p>
             </div>
             <div class="product">
-                <img src="https://images.unsplash.com/photo-1604152135912-04a118c6c1b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fGhhaXIlMjBwcm9kdWN0fGVufDB8fHx8MTY5NzI0NzI1Mw&ixlib=rb-4.0.3&q=80&w=400" alt="بلسم مغذي">
+               // <img src=" " //alt="بلسم مغذي">
                 <h3>بلسم مغذي</h3>
                 <p>ينعم الشعر ويجعله سهل التسريح</p>
             </div>
             <div class="product">
-                <img src="https://images.unsplash.com/photo-1590080877802-4a6111b9b29c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fGhhaXIlMjBwcm9kdWN0fGVufDB8fHx8MTY5NzI0NzI1Mw&ixlib=rb-4.0.3&q=80&w=400" alt="زيت شعر">
+               // <img src=" " //alt="زيت شعر">
                 <h3>زيت شعر طبيعي</h3>
                 <p>يقوي الشعر ويعطيه لمعان صحي</p>
             </div>
