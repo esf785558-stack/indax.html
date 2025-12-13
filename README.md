@@ -92,7 +92,7 @@
 </head>
 <body>
     <header>
-        <h1>موقع الشعر الجميل</h1>
+        <h1>hair product website</h1>
     </header>
 
     <nav>
