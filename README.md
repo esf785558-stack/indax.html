@@ -105,17 +105,17 @@
         <h2 class="section-title">منتجاتنا</h2>
         <div class="products">
             <div class="product">
-                //<img src=" " //alt="شامبو طبيعي">
+                
                 <h3>شامبو طبيعي</h3>
                 <p>يحافظ على صحة شعرك ويغذي فروة الرأس</p>
             </div>
             <div class="product">
-               // <img src=" " //alt="بلسم مغذي">
+               
                 <h3>بلسم مغذي</h3>
                 <p>ينعم الشعر ويجعله سهل التسريح</p>
             </div>
             <div class="product">
-               // <img src=" " //alt="زيت شعر">
+               
                 <h3>زيت شعر طبيعي</h3>
                 <p>يقوي الشعر ويعطيه لمعان صحي</p>
             </div>
